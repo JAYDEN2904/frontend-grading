@@ -8,7 +8,7 @@ const Header = () => {
         <h1>GradeTrack</h1>
 
         <div className="flexCenter h-menu">
-          <a href='/'>Home</a>
+          <a href='/'>Hoe</a>
           <a href='/'>About</a>
           <a href='/'>Contact</a>
           <a href='/'>Help</a>
